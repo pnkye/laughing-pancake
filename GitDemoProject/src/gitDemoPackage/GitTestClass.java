@@ -10,6 +10,7 @@ public class GitTestClass {
 
 		System.out.println("Hi this is aleli");
 
+		System.out.println("Hi this is kath");
 
 	}
 
