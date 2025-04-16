@@ -8,6 +8,7 @@ public class GitTestClass {
 		System.out.println("Hi its me");
 		System.out.println("Hi member");
 
+		System.out.println("Hi this is aleli");
 
 
 	}
